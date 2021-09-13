@@ -216,8 +216,6 @@ class CommandHandler extends AkairoHandler {
          * @name CommandHandler#modules
          * @type {Collection<string, Command>}
          */
-
-        this.setup();
     }
 
     setup() {

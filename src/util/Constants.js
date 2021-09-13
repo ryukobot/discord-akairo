@@ -79,7 +79,7 @@ module.exports = {
     BuiltInReasons: {
         CLIENT: 'client',
         BOT: 'bot',
-        OWNER: 'owner',
+        OWNER: 'This Command is Owner Only!',
         GUILD: 'guild',
         DM: 'dm'
     }
